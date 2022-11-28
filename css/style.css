@@ -1,7 +1,7 @@
 body{
     background-color: rgb(105, 105, 105);
     background-image:
-    url(/missingandmurdered.png);
+    url(../missingandmurdered.png);
     background-position: bottom;
     background-size: contain;
     background-repeat: repeat-x;
