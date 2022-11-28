@@ -1,9 +1,19 @@
 body{
-    background-image:url(MMIWLogo.png);
+    background-color: darkgrey;
+    background-image:
+    url(/); 
+    background-position: right;
+    background-position: bottom;
+    background-size: 40%;
+    background-repeat: no-repeat;
 }
 h1{
     text-align: center;
     color: red;
     font-size: xx-large;
 }
-   
+h2{
+    text-align: center;
+  
+}
+
