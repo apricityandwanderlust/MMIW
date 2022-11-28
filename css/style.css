@@ -1,19 +1,43 @@
 body{
-    background-color: darkgrey;
+    background-color: rgb(105, 105, 105);
     background-image:
-    url(/); 
-    background-position: right;
+    url(/missingandmurdered.png);
     background-position: bottom;
-    background-size: 40%;
-    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: repeat-x;
+
+
 }
 h1{
     text-align: center;
-    color: red;
-    font-size: xx-large;
+    color: #750000;
+    font-size: xxx-large;
+    background-color: black;
 }
 h2{
     text-align: center;
-  
+    text-emphasis-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: black;
 }
-
+h3{
+    orientation: bottom;
+    text-align-last: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:link{
+    color: rgb(71, 0,0);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(225, 225, 225);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
